@@ -1,0 +1,4 @@
+pyserial>=3.5
+matplotlib>=3.5
+customtkinter>=5.2
+reportlab>=4.0
